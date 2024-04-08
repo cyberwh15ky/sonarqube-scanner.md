@@ -21,4 +21,4 @@ SonarQube:
 URL: 10.1.0.203:9000
 Admin: squ_c6b7d0004f51ebf95737467e8d0c9473e5fa6a5f
 Command: 
-/home/kali/Downloads/sonar-scanner-5.0.1.3006-linux/bin/sonar-scanner -Dsonar.sources=./ -Dsonar.projectKey=dsf-2719-SCAN1-test1 -Dsonar.host.url=http://10.1.0.203:9000 -Dsonar.token=squ_c6b7d0004f51ebf95737467e8d0c9473e5fa6a5f -Dsonar.scm.disabled=true -Dsonar.sourceEncoding=UTF-8 -Dsonar.java.binaries="/home/kali/Downloads/target/dsf-2719-master" -Dsonar.login=admin -Dsonar.password=Rt@.123
+/home/kali/Downloads/sonar-scanner-5.0.1.3006-linux/bin/sonar-scanner -Dsonar.sources=./ -Dsonar.projectKey=dsf-2719-SCAN1-test1 -Dsonar.host.url=http://10.1.0.203:9000 -Dsonar.token=squ_c6b7d0004f51ebf95737467e8d0c9473e5fa6a5f -Dsonar.scm.disabled=true -Dsonar.sourceEncoding=UTF-8 -Dsonar.java.binaries="/home/kali/Downloads/target/dsf-2719-master" -Dsonar.login=admin -Dsonar.password=yourpassword
